@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=/bin/bash /home/edwin/bin/youtube-downloader/runCommand.sh %u
+Name=Youtube Downloader
+GenericName[en_US]=Youtube Downloader
+GenericName=Youtube Downloader
+MimeType=
+Path=
+Icon=/home/edwin/bin/youtube-downloader/icons/youtube-download.png
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
